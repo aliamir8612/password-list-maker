@@ -1,5 +1,6 @@
 import random
 
+print("salam")
 #put mark between items
 def beetwixt(a , b ,c) :
     markList = ["!", "@", "#", "$", "%", "&", "*", "-", "_"]
